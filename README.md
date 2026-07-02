@@ -1,75 +1,41 @@
-Hi 👋, I'm Muhammad Ali Feroz
+# Hi 👋, I'm Muhammad Ali Feroz
 
-Frontend Developer | React.js Developer | MERN Stack Learner
-Passionate Computer Science student from Pakistan 🇵🇰, building modern, responsive, and user-friendly web applications.
+### Frontend Developer | React.js Developer | MERN Stack Learner
 
- 👨‍💻 About Me
- 
-- 🎓 Computer Science Student
-- 💻 Frontend Developer specializing in React.js
-- 🌱 Currently learning **Node.js**, **Express.js**, and **MongoDB**
-- 🚀 Working towards becoming a **Full Stack MERN Developer**
-- 🌍 Interested in remote jobs and international opportunities
-- 📚 Always learning new technologies and improving my skills
+I'm a Computer Science student from Pakistan 🇵🇰 passionate about building modern, responsive, and user-friendly web applications.
 
-🚀 Tech Stack
+## 👨‍💻 About Me
 
-Frontend
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React.js
-- 
-Backend (Learning)
-- Node.js
-- Express.js
-- MongoDB
+- 💻 Frontend Developer (React.js)
+- 🌱 Currently learning Node.js, Express.js & MongoDB
+- 🚀 Working towards becoming a Full Stack MERN Developer
+- 🌍 Interested in remote opportunities
+- 📚 Always learning and improving my skills
 
- Tools
-- Git
-- GitHub
-- VS Code
-- Netlify
+## 🚀 Tech Stack
 
- 📂 Featured Projects
+**Frontend:** HTML5, CSS3, JavaScript, React.js
 
- 🖥️ E-Dashboard
+**Backend (Learning):** Node.js, Express.js, MongoDB
 
-- Responsive Admin Dashboard
-- Built with React.js
-- Clean and modern UI
+**Tools:** Git, GitHub, VS Code, Netlify
 
-🔗 Repository:
-- https://github.com/alikhan427/E-Dashboard
+## 📂 Featured Projects
 
----
+- **E-Dashboard** – React.js Admin Dashboard  
+  🔗 https://github.com/alikhan427/E-Dashboard
 
- 📊 Dashboard1
+- **Dashboard1** – Responsive React Dashboard  
+  🔗 https://github.com/alikhan427/Dashboard1
 
-- Professional Dashboard Interface
-- Responsive Design
-- Built with React.js
+## 🌐 Portfolio
 
-🔗 Repository:
-- https://github.com/alikhan427/Dashboard1
-
- 🌐 Portfolio
- 
 🔗 https://portfolioi1.netlify.app
 
- 🎯 Goals
-
-- ✅ Become a Professional MERN Stack Developer
-- ✅ Build 10+ High-Quality Projects
-- ✅ Get a Software Developer Internship
-- ✅ Work with International Clients
-- ✅ Move to the UK for Higher Studies
-
-
- 📫 Connect With Me
+## 📫 Connect With Me
 
 - GitHub: https://github.com/alikhan427
+- LinkedIn: https://www.linkedin.com/in/ali-khan-927162415/
 - Portfolio: https://portfolioi1.netlify.app
-- LinkedIn: https://www.linkedin.com/in/ali-khan-927162415/?skipRedirect=true
-  
-⭐ **Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me.**
+
+⭐ Thanks for visiting my GitHub profile!
